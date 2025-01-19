@@ -14,8 +14,8 @@ class ThemeServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        LaRecipe::style('rs', __DIR__.'/../resources/css/theme.css');
-        LaRecipe::script('rs', __DIR__.'/../resources/js/theme.js');
+        LaRecipe::style('rs.css', __DIR__.'/../resources/css/theme.css');
+        LaRecipe::script('rs.js', __DIR__.'/../resources/js/theme.js');
     }
 
     /**
