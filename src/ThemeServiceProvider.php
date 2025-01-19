@@ -1,6 +1,6 @@
 <?php
 
-namespace Vendor\Rs;
+namespace Alisincar\RsDocsTheme;
 
 use BinaryTorch\LaRecipe\LaRecipe;
 use Illuminate\Support\ServiceProvider;

@@ -18,13 +18,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Alisincar\\Rs-docs-theme\\": "src/"
+            "Alisincar\\RsDocsTheme\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Alisincar\\Rs-docs-theme\\ThemeServiceProvider"
+                "Alisincar\\RsDocsTheme\\ThemeServiceProvider"
             ]
         }
     },
