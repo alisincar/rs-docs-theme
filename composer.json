@@ -18,13 +18,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Meetupexpress\\Rs-docs-theme\\": "src/"
+            "Alisincar\\Rs-docs-theme\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Meetupexpress\\Rs-docs-theme\\ThemeServiceProvider"
+                "Alisincar\\Rs-docs-theme\\ThemeServiceProvider"
             ]
         }
     },
